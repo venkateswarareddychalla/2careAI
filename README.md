@@ -166,7 +166,7 @@ http://localhost:5173
 
 ### Base URL
 ```
-http://localhost:3000/api
+https://twocareai.onrender.com/api
 ```
 
 ### Authentication Endpoints
