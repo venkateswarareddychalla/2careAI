@@ -46,7 +46,7 @@ app.use((err, req, res, next) => {
 // Start server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`🚀 Server running at http://localhost:${PORT}`);
-  console.log('✓ Database initialized');
-  console.log('✓ All routes configured');
+  console.log(`Server running at http://localhost:${PORT}`);
+  console.log('Database initialized');
+  console.log('All routes configured');
 });
